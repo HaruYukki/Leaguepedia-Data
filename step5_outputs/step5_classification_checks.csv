@@ -1,4 +1,5 @@
 Check,Value,Expected
+Suspected identity split groups,0,0
 Every event has one EntryType,1,1
 Duplicate first-entry events (League x Player),0,0
 TrueDebut with prior top-tier history,0,0
