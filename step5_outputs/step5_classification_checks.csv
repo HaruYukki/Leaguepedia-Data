@@ -1,0 +1,6 @@
+Check,Value,Expected
+Every event has one EntryType,1,1
+Duplicate first-entry events (League x Player),0,0
+TrueDebut with prior top-tier history,0,0
+EstablishedDomestic without prior current-league history,0,0
+CrossRegionImport without prior other-league history,0,0

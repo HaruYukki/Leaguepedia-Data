@@ -1,0 +1,243 @@
+League,Year,CanonicalPlayer,EntryType,PriorCurrentLeagueTopTier,PriorOtherLeagueTopTier,SameYearOtherLeagueTopTier,FirstCurrentLeagueTopTierYear,FirstOtherLeagueTopTierYear,PriorCurrentLeagueYears,PriorOtherLeagueYears,CurrentID,PlayerPage,Birthdate,birth_year,Country,Nationality,Residency,EntryAge,KnownDOB,U22_Known,DOBConflict
+LoL Champions Korea,2018,Kiin,EstablishedDomestic,True,False,False,2017,,2017,,Kiin,Kiin,1999-05-28,1999.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2018,Mowgli,EstablishedDomestic,True,False,False,2017,,2017,,Mowgli,Mowgli,1998-04-14,1998.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2018,Chovy,TrueDebut,False,False,False,2018,,,,Chovy,Chovy,2001-03-03,2001.0,South Korea,,Korea,17.0,True,True,False
+LoL Champions Korea,2018,Effort,TrueDebut,False,False,False,2018,,,,Effort,Effort,2000-11-23,2000.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2018,Lehends,TrueDebut,False,False,False,2018,,,,Lehends,Lehends,1998-12-24,1998.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2018,Rush,TrueDebut,False,False,False,2018,,,,Rush,Rush,1993-04-06,1993.0,South Korea,,Korea,25.0,True,False,False
+LoL Champions Korea,2018,Sw0rd,TrueDebut,False,False,False,2018,,,,Sw0rd,Sw0rd,1997-06-16,1997.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2018,Tarzan (Lee Seung-yong),TrueDebut,False,False,False,2018,2021,,,Tarzan,Tarzan (Lee Seung-yong),1999-08-23,1999.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2018,Thal,TrueDebut,False,False,False,2018,,,,Thal,Thal,1998-11-13,1998.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2018,Ucal,TrueDebut,False,False,False,2018,,,,Ucal,Ucal,2001-01-30,2001.0,South Korea,,Korea,17.0,True,True,False
+LoL Champions Korea,2018,Viper (Park Do-hyeon),TrueDebut,False,False,False,2018,2021,,,Viper,Viper (Park Do-hyeon),2000-10-19,2000.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2019,Clid,CrossRegionImport,False,True,False,2019,2017,,2017;2018,Clid,Clid,1999-07-07,1999.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2019,Aiming,EstablishedDomestic,True,False,False,2018,2021,2018,,Aiming,Aiming,2000-07-20,2000.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2019,Ghost (Jang Yong-jun),EstablishedDomestic,True,False,False,2016,,2016;2017;2018,,Ghost,Ghost (Jang Yong-jun),1999-03-18,1999.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2019,Nuclear,EstablishedDomestic,True,False,False,2016,,2016,,Nuclear,Nuclear,1997-05-19,1997.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2019,Rascal,EstablishedDomestic,True,False,False,2017,,2017;2018,,Rascal,Rascal,1997-10-16,1997.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2019,Teddy,EstablishedDomestic,True,False,False,2017,,2017;2018,,Teddy,Teddy,1998-03-15,1998.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2019,BeryL,TrueDebut,False,False,False,2019,,,,BeryL,BeryL,1997-04-01,1997.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2019,Canyon,TrueDebut,False,False,False,2019,,,,Canyon,Canyon,2001-06-18,2001.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2019,Doran (Choi Hyeon-joon),TrueDebut,False,False,False,2019,,,,Doran,Doran (Choi Hyeon-joon),2000-07-22,2000.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2019,Dove,TrueDebut,False,False,False,2019,2023,,,Dove,Dove,1998-07-25,1998.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2019,Dread (Lee Jin-hyeok),TrueDebut,False,False,False,2019,,,,Dread,Dread (Lee Jin-hyeok),2000-06-07,2000.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2019,Hoit,TrueDebut,False,False,False,2019,,,,Hoit,Hoit,1999-07-06,1999.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2019,Joker (Cho Jae-eup),TrueDebut,False,False,False,2019,,,,Joker,Joker (Cho Jae-eup),1991-12-11,1991.0,South Korea,,Korea,28.0,True,False,False
+LoL Champions Korea,2019,Nuguri,TrueDebut,False,False,False,2019,2021,,,Nuguri,Nuguri,1999-07-17,1999.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2019,OnFleek,TrueDebut,False,False,False,2019,,,,OnFleek,OnFleek,1997-12-20,1997.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2019,ShowMaker,TrueDebut,False,False,False,2019,,,,ShowMaker,ShowMaker,2000-07-22,2000.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2019,Summit,TrueDebut,False,False,False,2019,2022,,,Summit,Summit,1998-12-08,1998.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2019,Test Sup,TrueDebut,False,False,False,2019,,,,Test Sup,Test Sup,2001-09-18,2001.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2020,Ben,CrossRegionImport,False,True,False,2020,2016,,2016;2017;2018;2019,Ben,Ben,1995-04-24,1995.0,South Korea,,Korea,25.0,True,False,False
+LoL Champions Korea,2020,Mystic,CrossRegionImport,False,True,False,2020,2015,,2015;2016;2017;2018;2019,Mystic,Mystic,1995-01-08,1995.0,South Korea,,Korea,25.0,True,False,False
+LoL Champions Korea,2020,Life,EstablishedDomestic,True,False,False,2019,2024,2019,,Life,Life,2000-07-07,2000.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2020,SoHwan,EstablishedDomestic,True,False,False,2016,,2016;2017;2018;2019,,SoHwan,SoHwan,1996-10-24,1996.0,South Korea,,Korea,24.0,True,False,False
+LoL Champions Korea,2020,bonO (Kim Gi-beom),EstablishedDomestic,True,False,False,2019,,2019,,,,,,,,,,False,,False
+LoL Champions Korea,2020,Canna,TrueDebut,False,False,False,2020,,,,Canna,Canna,2000-02-11,2000.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2020,Clozer,TrueDebut,False,False,False,2020,,,,Clozer,Clozer,2003-07-27,2003.0,South Korea,,Korea,17.0,True,True,False
+LoL Champions Korea,2020,Keria,TrueDebut,False,False,False,2020,,,,Keria,Keria,2002-10-14,2002.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2020,Pyosik,TrueDebut,False,False,False,2020,,,,Pyosik,Pyosik,2000-03-12,2000.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2021,Morgan,CrossRegionImport,False,True,False,2021,2019,,2019;2020,Morgan,Morgan,2001-09-26,2001.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2021,FATE (Yoo Su-hyeok),EstablishedDomestic,True,False,False,2020,,2020,,FATE,FATE (Yoo Su-hyeok),2000-08-22,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,Gori,EstablishedDomestic,True,False,False,2019,,2019,,Gori,Gori,2000-08-09,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,Kellin,EstablishedDomestic,True,False,False,2019,,2019;2020,,Kellin,Kellin,2001-02-01,2001.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2021,Kingen,EstablishedDomestic,True,True,False,2018,2020,2018;2019,2020,Kingen,Kingen,2000-03-11,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,Leo (Han Gyeo-re),EstablishedDomestic,True,False,False,2018,,2018;2020,,Leo,Leo (Han Gyeo-re),2000-01-12,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,Prince (Lee Chae-hwan),EstablishedDomestic,True,False,False,2018,2024,2018;2019,,Prince,Prince (Lee Chae-hwan),2000-04-05,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,Quad,EstablishedDomestic,True,False,False,2020,,2020,,Quad,Quad,2002-08-25,2002.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2021,Rich (Lee Jae-won),EstablishedDomestic,True,False,False,2019,2022,2019;2020,,Rich,Rich (Lee Jae-won),1998-02-16,1998.0,South Korea,,Korea,23.0,True,False,False
+LoL Champions Korea,2021,Vsta,EstablishedDomestic,True,False,False,2020,,2020,,Vsta,Vsta,2000-10-03,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,deokdam,EstablishedDomestic,True,False,False,2020,2024,2020,,,,,,,,,,False,,False
+LoL Champions Korea,2021,BAO (Jeong Hyeon-woo),TrueDebut,False,False,False,2021,,,,BAO,BAO (Jeong Hyeon-woo),2001-09-20,2001.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2021,Bay,TrueDebut,False,False,False,2021,,,,Bay,Bay,2002-02-19,2002.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2021,Croco,TrueDebut,False,False,False,2021,2024,,,Croco,Croco,2000-02-23,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,Gumayusi,TrueDebut,False,False,False,2021,,,,Gumayusi,Gumayusi,2002-02-06,2002.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2021,Mir (Park Mi-reu),TrueDebut,False,False,False,2021,,,,Mir,Mir (Park Mi-reu),2000-05-24,2000.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2021,Oner,TrueDebut,False,False,False,2021,,,,Oner,Oner,2002-12-24,2002.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2021,Pleata,TrueDebut,False,False,False,2021,,,,Pleata,Pleata,2003-03-28,2003.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2021,yoHan,TrueDebut,False,False,False,2021,,,,,,,,,,,,False,,False
+LoL Champions Korea,2022,Zeka (Kim Geon-woo),CrossRegionImport,False,True,False,2022,2020,,2020;2021,Zeka,Zeka (Kim Geon-woo),2002-11-28,2002.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2022,Burdol,EstablishedDomestic,True,False,False,2021,2024,2021,,Burdol,Burdol,2003-12-25,2003.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2022,Delight,EstablishedDomestic,True,False,False,2021,,2021,,Delight,Delight,2002-09-12,2002.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2022,Ellim,EstablishedDomestic,True,False,False,2020,,2020;2021,,Ellim,Ellim,2000-05-25,2000.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2022,Hena,EstablishedDomestic,True,False,False,2021,,2021,,Hena,Hena,1999-10-08,1999.0,South Korea,,Korea,23.0,True,False,False
+LoL Champions Korea,2022,Hoya,EstablishedDomestic,True,False,False,2020,,2020;2021,,,,,,,,,,False,,False
+LoL Champions Korea,2022,Lava,EstablishedDomestic,True,False,False,2017,,2017;2018;2019;2020;2021,,Lava,Lava,1999-07-14,1999.0,South Korea,,Korea,23.0,True,False,False
+LoL Champions Korea,2022,UmTi,EstablishedDomestic,True,False,False,2017,,2017;2018;2019;2021,,UmTi,UmTi,1999-06-02,1999.0,South Korea,,Korea,23.0,True,False,False
+LoL Champions Korea,2022,Zeus,EstablishedDomestic,True,False,False,2021,,2021,,Zeus,Zeus,2004-01-31,2004.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2022,Kael (Kim Jin-hong),TrueDebut,False,False,False,2022,2024,,,Kael,Kael (Kim Jin-hong),2004-02-11,2004.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2022,VicLa,TrueDebut,False,False,False,2022,2024,,,VicLa,VicLa,2003-11-27,2003.0,South Korea,"South Korea,Japan",Korea,19.0,True,True,False
+LoL Champions Korea,2023,Envyy,EstablishedDomestic,True,False,True,2022,2023,2022,,Envyy,Envyy,2000-04-07,2000.0,South Korea,,Korea,23.0,True,False,False
+LoL Champions Korea,2023,Willer,EstablishedDomestic,True,False,False,2021,,2021;2022,,Willer,Willer,2003-04-24,2003.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2023,Grizzly,TrueDebut,False,False,False,2023,,,,Grizzly,Grizzly,2005-05-25,2005.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2023,Paduck,TrueDebut,False,False,False,2023,,,,Paduck,Paduck,2005-02-12,2005.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2023,Peyz,TrueDebut,False,False,False,2023,,,,Peyz,Peyz,2005-12-05,2005.0,South Korea,,Korea,18.0,True,True,False
+LoL Champions Korea,2023,ZEKA (Kim Geon-woo),TrueDebut,False,False,False,2023,,,,,,,,,,,,False,,False
+LoL Champions Korea,2024,BuLLDoG (Lee Tae-young),EstablishedDomestic,True,False,False,2023,,2023,,BuLLDoG,BuLLDoG (Lee Tae-young),2005-04-15,2005.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2024,Clear (Song Hyeon-min),EstablishedDomestic,True,False,False,2022,,2022;2023,,Clear,Clear (Song Hyeon-min),2002-12-19,2002.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2024,DuDu (Lee Dong-ju),EstablishedDomestic,True,False,False,2020,,2020;2021;2022;2023,,DuDu,DuDu (Lee Dong-ju),2001-03-08,2001.0,South Korea,,Korea,23.0,True,False,False
+LoL Champions Korea,2024,Moham,EstablishedDomestic,True,False,False,2022,,2022;2023,,Moham,Moham,2002-08-08,2002.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2024,PerfecT (Lee Seung-min),EstablishedDomestic,True,False,False,2023,,2023,,PerfecT,PerfecT (Lee Seung-min),2004-05-17,2004.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2024,Raptor (Jeon Eo-jin),EstablishedDomestic,True,False,False,2022,,2022,,Raptor,Raptor (Jeon Eo-jin),2004-11-15,2004.0,South Korea,,Korea,20.0,True,True,False
+LoL Champions Korea,2024,Bull,TrueDebut,False,False,False,2024,,,,Bull,Bull,2003-05-16,2003.0,South Korea,,Korea,21.0,True,True,False
+LoL Champions Korea,2024,Duro,TrueDebut,False,False,False,2024,,,,Duro,Duro,2002-02-04,2002.0,South Korea,,Korea,22.0,True,False,False
+LoL Champions Korea,2024,Lucid (Choi Yong-hyeok),TrueDebut,False,False,False,2024,,,,Lucid,Lucid (Choi Yong-hyeok),2005-01-28,2005.0,South Korea,,Korea,19.0,True,True,False
+LoL Champions Korea,2024,Quantum (Son Jeong-hwan),TrueDebut,False,False,False,2024,,,,Quantum,Quantum (Son Jeong-hwan),2004-08-20,2004.0,South Korea,,Korea,20.0,True,True,False
+Tencent LoL Pro League,2018,Flawless,CrossRegionImport,True,True,False,2017,2016,2017,2016,Flawless,Flawless,1998-07-26,1998.0,South Korea,,Korea,20.0,True,True,False
+Tencent LoL Pro League,2018,LokeN,CrossRegionImport,False,True,False,2018,2016,,2016,LokeN,LokeN,1998-02-14,1998.0,South Korea,,Korea,20.0,True,True,False
+Tencent LoL Pro League,2018,Cat (Wu Yao),EstablishedDomestic,True,False,False,2017,,2017,,Cat,Cat (Wu Yao),1995-08-11,1995.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2018,Corn (Lei Wen),EstablishedDomestic,True,False,False,2017,,2017,,Corn,Corn (Lei Wen),1997-03-04,1997.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2018,Lies (Guo Hao-Tian),EstablishedDomestic,True,False,False,2017,,2017,,Lies,Lies (Guo Hao-Tian),1997-12-28,1997.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2018,Loken,EstablishedDomestic,True,False,False,2017,,2017,,,,,,,,,,False,,False
+Tencent LoL Pro League,2018,LvMao,EstablishedDomestic,True,False,False,2017,,2017,,LvMao,LvMao,1996-03-07,1996.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2018,Moyu,EstablishedDomestic,True,False,False,2017,,2017,,Moyu,Moyu,1997-08-23,1997.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2018,QiuQiu (Zhang Ming),EstablishedDomestic,True,False,False,2017,,2017,,QiuQiu,QiuQiu (Zhang Ming),1998-04-17,1998.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2018,Ray,EstablishedDomestic,True,False,False,2015,2020,2015,,Ray,Ray,1998-03-15,1998.0,South Korea,,Korea,20.0,True,True,False
+Tencent LoL Pro League,2018,694,TrueDebut,False,False,False,2018,,,,694,694,1995-07-25,1995.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2018,Able,TrueDebut,False,False,False,2018,,,,Able,Able,2000-02-24,2000.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2018,Alex (Chen Yu-Ming),TrueDebut,False,False,False,2018,,,,Alex,Alex (Chen Yu-Ming),2000-01-22,2000.0,Taiwan,,Asia Pacific,18.0,True,True,False
+Tencent LoL Pro League,2018,Angel (Xiang Tao),TrueDebut,False,False,False,2018,,,,Angel,Angel (Xiang Tao),2000-09-16,2000.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2018,Chieftain,TrueDebut,False,False,False,2018,2021,,,Chieftain,Chieftain,2000-11-16,2000.0,South Korea,,Korea,18.0,True,True,False
+Tencent LoL Pro League,2018,Haro,TrueDebut,False,False,False,2018,,,,Haro,Haro,1998-07-21,1998.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2018,Holder,TrueDebut,False,False,False,2018,,,,Holder,Holder,1998-06-25,1998.0,South Korea,,Korea,20.0,True,True,False
+Tencent LoL Pro League,2018,JackeyLove,TrueDebut,False,False,False,2018,,,,JackeyLove,JackeyLove,2000-11-18,2000.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2018,Karsa,TrueDebut,False,False,False,2018,,,,Karsa,Karsa,1997-02-14,1997.0,Taiwan,,Asia Pacific,21.0,True,True,False
+Tencent LoL Pro League,2018,Killua,TrueDebut,False,False,False,2018,,,,Killua,Killua,1996-09-07,1996.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2018,Kiwi,TrueDebut,False,False,False,2018,,,,Kiwi,Kiwi,1997-07-26,1997.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2018,Magic (Zhou Jun-Xuan),TrueDebut,False,False,False,2018,,,,Magic,Magic (Zhou Jun-Xuan),1996-11-28,1996.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2018,Ming (Shi Sen-Ming),TrueDebut,False,False,False,2018,,,,Ming,Ming (Shi Sen-Ming),1998-12-22,1998.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2018,Mole,TrueDebut,False,False,False,2018,,,,Mole,Mole,2000-09-10,2000.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2018,Xx (Xiong Yu-Long),TrueDebut,False,False,False,2018,,,,Xx,Xx (Xiong Yu-Long),1997-06-18,1997.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2018,YaGao,TrueDebut,False,False,False,2018,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2018,Zoom,TrueDebut,False,False,False,2018,,,,Zoom,Zoom,1997-07-27,1997.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2019,ADD,CrossRegionImport,False,True,False,2019,2016,,2016;2017;2018,ADD,ADD,1998-10-17,1998.0,South Korea,,Korea,21.0,True,True,False
+Tencent LoL Pro League,2019,Kuro,CrossRegionImport,False,True,False,2019,2016,,2016;2017;2018,Kuro,Kuro,1994-01-04,1994.0,South Korea,,Korea,25.0,True,False,False
+Tencent LoL Pro League,2019,Imp,EstablishedDomestic,True,False,False,2017,,2017;2018,,imp,Imp,1995-06-07,1995.0,South Korea,,Korea,24.0,True,False,False
+Tencent LoL Pro League,2019,Jinoo,EstablishedDomestic,True,False,False,2016,,2016;2017;2018,,Jinoo,Jinoo,1995-01-23,1995.0,South Korea,,Korea,24.0,True,False,False
+Tencent LoL Pro League,2019,Knight (Zhuo Ding),EstablishedDomestic,True,False,False,2018,,2018,,Knight,Knight (Zhuo Ding),2000-05-22,2000.0,China,,China,19.0,True,True,False
+Tencent LoL Pro League,2019,Missing,EstablishedDomestic,True,False,False,2018,,2018,,,,,,,,,,False,,False
+Tencent LoL Pro League,2019,Tian,EstablishedDomestic,True,False,False,2018,,2018,,Tian,Tian,2000-07-24,2000.0,China,,China,19.0,True,True,False
+Tencent LoL Pro League,2019,369,TrueDebut,False,False,False,2019,,,,369,369,2001-07-12,2001.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2019,Asura (Lu Qi),TrueDebut,False,False,False,2019,,,,Asura,Asura (Lu Qi),1998-10-13,1998.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2019,Changhong,TrueDebut,False,False,False,2019,,,,Changhong,Changhong,1997-01-25,1997.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2019,Duan,TrueDebut,False,False,False,2019,,,,Duan,Duan,1996-02-25,1996.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2019,Fenfen,TrueDebut,False,False,False,2019,,,,Fenfen,Fenfen,1998-08-29,1998.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2019,GALA,TrueDebut,False,False,False,2019,,,,GALA,GALA,2001-02-14,2001.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2019,Jiejie,TrueDebut,False,False,False,2019,,,,Jiejie,Jiejie,2001-10-27,2001.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2019,Leyan,TrueDebut,False,False,False,2019,,,,Leyan,Leyan,2002-07-07,2002.0,China,,China,17.0,True,True,False
+Tencent LoL Pro League,2019,Maple (Huang Yi-Tang),TrueDebut,False,False,False,2019,,,,Maple,Maple (Huang Yi-Tang),1997-10-10,1997.0,Taiwan,,Asia Pacific,22.0,True,False,False
+Tencent LoL Pro League,2019,Mark (Ling Xu),TrueDebut,False,False,False,2019,,,,Mark,Mark (Ling Xu),1999-05-20,1999.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2019,Meteor,TrueDebut,False,False,False,2019,,,,Meteor,Meteor,1999-12-26,1999.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2019,Poss,TrueDebut,False,False,False,2019,,,,Poss,Poss,1998-05-02,1998.0,South Korea,,Korea,21.0,True,True,False
+Tencent LoL Pro League,2019,SwordArt,TrueDebut,False,False,False,2019,,,,SwordArt,SwordArt,1996-12-21,1996.0,Taiwan,,Asia Pacific,23.0,True,False,False
+Tencent LoL Pro League,2019,Twila,TrueDebut,False,False,False,2019,,,,Twila,Twila,1998-12-07,1998.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2019,Xiaopeng,TrueDebut,False,False,False,2019,,,,xiaopeng,Xiaopeng,1997-12-01,1997.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2019,XinMo,TrueDebut,False,False,False,2019,,,,XinMo,XinMo,2000-02-17,2000.0,China,,China,19.0,True,True,False
+Tencent LoL Pro League,2019,Yagao,TrueDebut,False,False,False,2019,,,,Yagao,Yagao,1998-10-19,1998.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2019,beishang,TrueDebut,False,False,False,2019,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2020,Khan,CrossRegionImport,False,True,False,2020,2017,,2017;2018;2019,Khan,Khan,1995-12-22,1995.0,South Korea,,Korea,25.0,True,False,False
+Tencent LoL Pro League,2020,Kramer,CrossRegionImport,True,True,False,2019,2016,2019,2016;2017;2018,Kramer,Kramer,1996-03-09,1996.0,South Korea,,Korea,24.0,True,False,False
+Tencent LoL Pro League,2020,Peanut,CrossRegionImport,False,True,False,2020,2016,,2016;2017;2018;2019,Peanut,Peanut,1998-02-03,1998.0,South Korea,,Korea,22.0,True,False,False
+Tencent LoL Pro League,2020,Aodi,EstablishedDomestic,True,False,False,2017,,2017;2018,,Aodi,Aodi,2000-05-28,2000.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2020,Biubiu,EstablishedDomestic,True,False,False,2019,,2019,,Biubiu,Biubiu,1999-06-01,1999.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2020,Hope (Wang Jie),EstablishedDomestic,True,False,False,2018,,2018;2019,,Hope,Hope (Wang Jie),2000-09-29,2000.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2020,Jiumeng,EstablishedDomestic,True,False,False,2019,,2019,,,,,,,,,,False,,False
+Tencent LoL Pro League,2020,Kanavi,EstablishedDomestic,True,False,False,2019,,2019,,Kanavi,Kanavi,2000-11-02,2000.0,South Korea,,Korea,20.0,True,True,False
+Tencent LoL Pro League,2020,Morgan,EstablishedDomestic,True,False,False,2019,2021,2019,,Morgan,Morgan,2001-09-26,2001.0,South Korea,,Korea,19.0,True,True,False
+Tencent LoL Pro League,2020,Puff (Ding Wang),EstablishedDomestic,True,False,False,2019,,2019,,Puff,Puff (Ding Wang),1999-02-07,1999.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2020,Southwind,EstablishedDomestic,True,False,False,2019,,2019,,Southwind,Southwind,1996-07-23,1996.0,China,,China,24.0,True,False,False
+Tencent LoL Pro League,2020,Weiwei,EstablishedDomestic,True,False,False,2019,,2019,,Weiwei,Weiwei,2000-08-14,2000.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2020,Wink,EstablishedDomestic,True,False,False,2019,,2019,,Wink,Wink,1999-11-02,1999.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2020,y4,EstablishedDomestic,True,False,False,2017,,2017;2018;2019,,,,,,,,,,False,,False
+Tencent LoL Pro League,2020,Betty,TrueDebut,False,False,False,2020,,,,Betty,Betty,2000-01-16,2000.0,Taiwan,,Asia Pacific,20.0,True,True,False
+Tencent LoL Pro League,2020,Bin (Chen Ze-Bin),TrueDebut,False,False,False,2020,,,,Bin,Bin (Chen Ze-Bin),2003-09-28,2003.0,China,,China,17.0,True,True,False
+Tencent LoL Pro League,2020,Cryin,TrueDebut,False,False,False,2020,,,,Cryin,Cryin,2000-11-05,2000.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2020,JunJia,TrueDebut,False,False,False,2020,,,,JunJia,JunJia,2002-06-10,2002.0,Taiwan,,Asia Pacific,18.0,True,True,False
+Tencent LoL Pro League,2020,Samd,TrueDebut,False,False,False,2020,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2020,ShiauC,TrueDebut,False,False,False,2020,,,,ShiauC,ShiauC,1999-07-12,1999.0,Taiwan,,Asia Pacific,21.0,True,True,False
+Tencent LoL Pro League,2020,Teacherma,TrueDebut,False,False,False,2020,,,,Teacherma,Teacherma,1999-06-19,1999.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2020,Wei (Yan Yang-Wei),TrueDebut,False,False,False,2020,,,,Wei,Wei (Yan Yang-Wei),2002-11-09,2002.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2020,XLB,TrueDebut,False,False,False,2020,,,,XLB,XLB,1999-08-06,1999.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2020,Xiaobai,TrueDebut,False,False,False,2020,,,,Xiaobai,Xiaobai,1999-02-15,1999.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2020,Yuyanjia,TrueDebut,False,False,False,2020,,,,yuyanjia,Yuyanjia,1997-08-30,1997.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2020,huanfeng,TrueDebut,False,False,False,2020,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2020,knight (Zhuo Ding),TrueDebut,False,False,False,2020,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2020,ppgod,TrueDebut,False,False,False,2020,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2020,yuyanjia,TrueDebut,False,False,False,2020,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2021,Aiming,CrossRegionImport,False,True,False,2021,2018,,2018;2019;2020,Aiming,Aiming,2000-07-20,2000.0,South Korea,,Korea,21.0,True,True,False
+Tencent LoL Pro League,2021,Nuguri,CrossRegionImport,False,True,False,2021,2019,,2019;2020,Nuguri,Nuguri,1999-07-17,1999.0,South Korea,,Korea,22.0,True,False,False
+Tencent LoL Pro League,2021,Tarzan (Lee Seung-yong),CrossRegionImport,False,True,False,2021,2018,,2018;2019;2020,Tarzan,Tarzan (Lee Seung-yong),1999-08-23,1999.0,South Korea,,Korea,22.0,True,False,False
+Tencent LoL Pro League,2021,Viper (Park Do-hyeon),CrossRegionImport,False,True,False,2021,2018,,2018;2019;2020,Viper,Viper (Park Do-hyeon),2000-10-19,2000.0,South Korea,,Korea,21.0,True,True,False
+Tencent LoL Pro League,2021,Ale,EstablishedDomestic,True,False,False,2019,,2019;2020,,Ale,Ale,2001-07-23,2001.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2021,Breathe,EstablishedDomestic,True,False,False,2019,,2019;2020,,Breathe,Breathe,2001-02-19,2001.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2021,Cube (Dai Yi),EstablishedDomestic,True,False,False,2019,,2019;2020,,Cube,Cube (Dai Yi),2002-07-14,2002.0,China,,China,19.0,True,True,False
+Tencent LoL Pro League,2021,FoFo,EstablishedDomestic,True,False,False,2020,,2020,,FoFo,FoFo,1999-01-08,1999.0,Taiwan,,Asia Pacific,22.0,True,False,False
+Tencent LoL Pro League,2021,Hang,EstablishedDomestic,True,False,False,2020,,2020,,Hang,Hang,2003-02-05,2003.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2021,Iwandy,EstablishedDomestic,True,False,False,2020,,2020,,Iwandy,Iwandy,2000-08-27,2000.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2021,Light (Wang Guang-Yu),EstablishedDomestic,True,False,False,2018,,2018;2020,,Light,Light (Wang Guang-Yu),2001-02-21,2001.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2021,New,EstablishedDomestic,True,False,False,2018,,2018;2020,,New,New,1998-09-01,1998.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2021,XinLiu,EstablishedDomestic,True,False,False,2019,,2019,,XinLiu,XinLiu,2001-07-27,2001.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2021,Zeka (Kim Geon-woo),EstablishedDomestic,True,False,False,2020,2022,2020,,Zeka,Zeka (Kim Geon-woo),2002-11-28,2002.0,South Korea,,Korea,19.0,True,True,False
+Tencent LoL Pro League,2021,icon,EstablishedDomestic,True,False,False,2016,,2016;2018;2019;2020,,,,,,,,,,False,,False
+Tencent LoL Pro League,2021,Aki (Mao An),TrueDebut,False,False,False,2021,,,,Aki,Aki (Mao An),2000-04-09,2000.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2021,Creme,TrueDebut,False,False,False,2021,,,,Creme,Creme,2003-12-14,2003.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2021,Elk,TrueDebut,False,False,False,2021,,,,Elk,Elk,2001-09-29,2001.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2021,Hulatang,TrueDebut,False,False,False,2021,,,,hulatang,Hulatang,2000-10-06,2000.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2021,ON,TrueDebut,False,False,False,2021,,,,ON,ON,2003-05-12,2003.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2021,Shanks,TrueDebut,False,False,False,2021,,,,Shanks,Shanks,2001-05-13,2001.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2021,XUN,TrueDebut,False,False,False,2021,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2021,Zhuo,TrueDebut,False,False,False,2021,,,,Zhuo,Zhuo,2001-02-13,2001.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2022,Rich (Lee Jae-won),CrossRegionImport,False,True,False,2022,2019,,2019;2020;2021,Rich,Rich (Lee Jae-won),1998-02-16,1998.0,South Korea,,Korea,24.0,True,False,False
+Tencent LoL Pro League,2022,Summit,CrossRegionImport,False,True,False,2022,2019,,2019;2020;2021,Summit,Summit,1998-12-08,1998.0,South Korea,,Korea,24.0,True,False,False
+Tencent LoL Pro League,2022,Photic,EstablishedDomestic,True,False,False,2020,,2020,,Photic,Photic,2002-10-11,2002.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2022,Qingtian,EstablishedDomestic,True,False,False,2021,,2021,,Qingtian,Qingtian,2002-04-15,2002.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2022,xiaolaohu,EstablishedDomestic,True,False,False,2021,,2021,,,,,,,,,,False,,False
+Tencent LoL Pro League,2022,Care,TrueDebut,False,False,False,2022,,,,Care,Care,2004-02-28,2004.0,China,,China,18.0,True,True,False
+Tencent LoL Pro League,2022,Doggo,TrueDebut,False,False,False,2022,,,,Doggo,Doggo,2003-01-14,2003.0,Taiwan,,Asia Pacific,19.0,True,True,False
+Tencent LoL Pro League,2022,Strive,TrueDebut,False,False,False,2022,,,,Strive,Strive,2002-08-28,2002.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2022,Wayward,TrueDebut,False,False,False,2022,,,,Wayward,Wayward,2001-06-23,2001.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2022,clid,TrueDebut,False,False,False,2022,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2022,shanji,TrueDebut,False,False,False,2022,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2023,Ruler,CrossRegionImport,False,True,False,2023,2016,,2016;2017;2018;2019;2020;2021;2022,Ruler,Ruler,1998-12-29,1998.0,South Korea,,Korea,25.0,True,False,False
+Tencent LoL Pro League,2023,Beichuan,EstablishedDomestic,True,False,False,2021,,2021;2022,,Beichuan,Beichuan,2001-07-21,2001.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2023,HOYA,EstablishedDomestic,True,False,False,2022,,2022,,HOYA,HOYA,2000-08-25,2000.0,South Korea,,Korea,23.0,True,False,False
+Tencent LoL Pro League,2023,Invincible,EstablishedDomestic,True,False,False,2021,,2021;2022,,Invincible,Invincible,2001-01-30,2001.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2023,LP,EstablishedDomestic,True,False,False,2021,,2021,,LP,LP,2002-08-04,2002.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2023,Xun,EstablishedDomestic,True,False,False,2022,,2022,,Xun,Xun,2002-02-05,2002.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2023,Zika,EstablishedDomestic,True,False,False,2022,,2022,,Zika,Zika,2003-07-07,2003.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2023,shad0w,EstablishedDomestic,True,False,False,2021,,2021;2022,,,,,,,,,,False,,False
+Tencent LoL Pro League,2023,ucal,EstablishedDomestic,True,False,False,2022,,2022,,,,,,,,,,False,,False
+Tencent LoL Pro League,2023,yaoyao,EstablishedDomestic,True,False,False,2022,,2022,,,,,,,,,,False,,False
+Tencent LoL Pro League,2023,Heng,TrueDebut,False,False,False,2023,,,,Heng,Heng,2001-07-16,2001.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2023,JieJie,TrueDebut,False,False,False,2023,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2023,Leave,TrueDebut,False,False,False,2023,,,,Leave,Leave,2002-09-29,2002.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2023,Lele (Dang Bo-Lin),TrueDebut,False,False,False,2023,,,,Lele,Lele (Dang Bo-Lin),2000-07-11,2000.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2023,MISSING,TrueDebut,False,False,False,2023,,,,MISSING,MISSING,2001-05-26,2001.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2023,Tangyuan,TrueDebut,False,False,False,2023,,,,Tangyuan,Tangyuan,2004-01-30,2004.0,China,,China,19.0,True,True,False
+Tencent LoL Pro League,2024,Burdol,CrossRegionImport,False,True,False,2024,2021,,2021;2022;2023,Burdol,Burdol,2003-12-25,2003.0,South Korea,,Korea,21.0,True,True,False
+Tencent LoL Pro League,2024,Croco,CrossRegionImport,False,True,False,2024,2021,,2021;2022;2023,Croco,Croco,2000-02-23,2000.0,South Korea,,Korea,24.0,True,False,False
+Tencent LoL Pro League,2024,Kael (Kim Jin-hong),CrossRegionImport,False,True,False,2024,2022,,2022;2023,Kael,Kael (Kim Jin-hong),2004-02-11,2004.0,South Korea,,Korea,20.0,True,True,False
+Tencent LoL Pro League,2024,Life,CrossRegionImport,False,True,False,2024,2019,,2019;2020;2021;2022;2023,Life,Life,2000-07-07,2000.0,South Korea,,Korea,24.0,True,False,False
+Tencent LoL Pro League,2024,VicLa,CrossRegionImport,False,True,False,2024,2022,,2022,VicLa,VicLa,2003-11-27,2003.0,South Korea,"South Korea,Japan",Korea,21.0,True,True,False
+Tencent LoL Pro League,2024,deokdam,CrossRegionImport,False,True,False,2024,2020,,2020;2021;2022;2023,,,,,,,,,False,,False
+Tencent LoL Pro League,2024,1xn,EstablishedDomestic,True,False,False,2023,,2023,,1xn,1xn,2004-05-01,2004.0,Hong Kong,,China,20.0,True,True,False
+Tencent LoL Pro League,2024,Ahn,EstablishedDomestic,True,False,False,2022,,2022;2023,,Ahn,Ahn,2001-03-15,2001.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2024,Assum,EstablishedDomestic,True,False,False,2022,,2022;2023,,Assum,Assum,2003-11-30,2003.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2024,Feather,EstablishedDomestic,True,False,False,2023,,2023,,Feather,Feather,2003-08-01,2003.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2024,Hery,EstablishedDomestic,True,False,False,2022,,2022;2023,,Hery,Hery,2001-09-29,2001.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2024,Jwei,EstablishedDomestic,True,False,False,2021,,2021,,Jwei,Jwei,2003-01-05,2003.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2024,Stay (Guo Yi-Yang),EstablishedDomestic,True,False,False,2021,,2021;2022,,Stay,Stay (Guo Yi-Yang),2003-01-19,2003.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2024,Tianzhen,EstablishedDomestic,True,False,False,2023,,2023,,Tianzhen,Tianzhen,2004-09-13,2004.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2024,Xiaohao,EstablishedDomestic,True,False,False,2021,,2021;2022;2023,,Xiaohao,Xiaohao,2002-07-19,2002.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2024,Xiaolaohu,EstablishedDomestic,True,False,False,2022,,2022;2023,,Xiaolaohu,Xiaolaohu,2002-08-22,2002.0,China,,China,22.0,True,False,False
+Tencent LoL Pro League,2024,Xiaoxu,EstablishedDomestic,True,False,False,2023,,2023,,Xiaoxu,Xiaoxu,2003-09-11,2003.0,China,,China,21.0,True,True,False
+Tencent LoL Pro League,2024,YSKM,EstablishedDomestic,True,False,False,2023,,2023,,YSKM,YSKM,2004-02-11,2004.0,Hong Kong,,China,20.0,True,True,False
+Tencent LoL Pro League,2024,Zdz,EstablishedDomestic,True,False,False,2019,,2019;2021;2022;2023,,Zdz,Zdz,2001-12-03,2001.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2024,haichao,EstablishedDomestic,True,False,False,2022,,2022;2023,,,,,,,,,,False,,False
+Tencent LoL Pro League,2024,neny,EstablishedDomestic,True,False,False,2021,,2021;2022;2023,,,,,,,,,,False,,False
+Tencent LoL Pro League,2024,Shaoye,TrueDebut,False,False,False,2024,,,,Shaoye,Shaoye,2001-09-14,2001.0,China,,China,23.0,True,False,False
+Tencent LoL Pro League,2024,Starry,TrueDebut,False,False,False,2024,,,,Starry,Starry,2004-10-14,2004.0,China,,China,20.0,True,True,False
+Tencent LoL Pro League,2024,Vampire,TrueDebut,False,False,False,2024,,,,Vampire,Vampire,2005-08-24,2005.0,China,,China,19.0,True,True,False
+Tencent LoL Pro League,2024,glfs,TrueDebut,False,False,False,2024,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2024,milkyway,TrueDebut,False,False,False,2024,,,,,,,,,,,,False,,False
+Tencent LoL Pro League,2024,xiaofang,TrueDebut,False,False,False,2024,,,,,,,,,,,,False,,False
